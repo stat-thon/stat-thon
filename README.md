@@ -1,38 +1,3 @@
-####################################################(지워서 사용해야하는 구간 및 설명)
-
-# 배지
-
-<img alt="[icon]" src ="https://img.shields.io/badge/[icon]-[color].svg?&style=plastic&logo=[icon]&logoColor=white"/>
-[icon] = 내가 원하는 아이콘 이름, [color] = #빼고 번호
-
-
-# 이미지, 하이퍼링크 넣기
-![](이미지 주소) : 이미지 첨부하기 이미지는 아무 레포지토리에서 issue 들어가서 만들기 하고 드래그하면 바로 첨부 가능하게 나옴
-
-[표현할 텍스트](홈페이지) : 참조 홈페이지 하이퍼링크 만들기
-
-
-# table 만들기
-<table>
-	<tr>
-		<td> 내용 </td>
-		<td> 내용 </td>
-	</tr>
-
-</table>
-
-# 자판 타입 문구
-<tt> print("hello world") </tt>
-
-# 강조
-<b> </b>
-
-아래는 예시
-####################################################
-
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstat-thon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
