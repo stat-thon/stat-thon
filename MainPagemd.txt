@@ -1,6 +1,6 @@
 ####################################################(지워서 사용해야하는 구간 및 설명)
 
-# 배지 넣기
+# 배지
 
 <img alt="[icon]" src ="https://img.shields.io/badge/[icon]-[color].svg?&style=plastic&logo=[icon]&logoColor=white"/>
 [icon] = 내가 원하는 아이콘 이름, [color] = #빼고 번호
