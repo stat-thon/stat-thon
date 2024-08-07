@@ -2,24 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstat-thon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Nice to meet you! I want to be a data scientist
-
-<div align=center><h1>📚 Once I've Used 📚</h1></div>
-
-
-<div align=center> 
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
-  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=plastic&logo=R&logoColor=white"/>
-  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=plastic&logo=scikit-learn&logoColor=white"/>
-  </br>
-  
-  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white"/>
-  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white"/>
-  <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>
-  
-  </br>
-</div>
-
 <div align="center"><h2>✏️ My Log </h2></div>
 
 <h3> Work Experiences </h3>
