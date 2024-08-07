@@ -6,7 +6,7 @@
 
 <h3> Work Experiences </h3>
 
-> - 신한은행, 모형공학부/ 2023.07 ~ Now
+> - 신한은행, 모형공학부/ 2023.07 ~ 2024.04
 
 <h3> Competitions & Projects </h3>
 
